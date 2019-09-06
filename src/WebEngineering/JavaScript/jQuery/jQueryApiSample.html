@@ -1,0 +1,24 @@
+<p><input class="show-button" type="button" value="名前で検索" /></p>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">// <![CDATA[
+//クリックすると表示されるボタン
+    $(function(){
+        $(".show-button").click(function(){
+            console.log("success");
+var tag = "aaaaaaa";
+var settings = {
+  async: true,
+  crossDomain: true,
+  url: "https://api.brawlapi.cf/v1/player/?tag=" + tag,
+  method: "GET",
+  headers: {
+    Authorization: "code"
+  }
+};
+
+$.ajax(settings).done(function(response) {
+  console.log(response);
+});
+        });
+    });
+// ]]></script>
