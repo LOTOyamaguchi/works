@@ -22,6 +22,7 @@ django-admin startproject (プロジェクト名)
 ## ファイルの役割
 setting.py 設定用
 urls.py URL指定
+manage.py プロジェクトの作成、簡易サーバーの軌道など
 
 ## サーバーの起動
 cd project
@@ -32,5 +33,9 @@ http://127.0.0.1:8000/
 
 停止はCtrl+C
 
+## アプリケーションとの紐づけ
+setting.py に記載
+
+projectのurls.py→appのurls.py
 
 
