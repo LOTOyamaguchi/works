@@ -2,9 +2,9 @@
 * 某歯科医療機器メーカーで営業
 
 # スキル
-* PhotoShop
-* Illustrator
-## 経験言語
+* 商品のポスター制作(Photoshop, Illustrator)
+
+## 業務経験のある言語
 * HTML, CSS
 * PHP
   * PHPUnit
@@ -12,5 +12,11 @@
 * Shell(bash)
 * JavaScript(jQuery）
 * Java(研修のみ)
+
+## 経験ソフトウェア
+Jira, Backlog, Redmine
+
+
+
 
 
