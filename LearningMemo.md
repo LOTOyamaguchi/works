@@ -1,5 +1,9 @@
 # 職務経歴
-# WEB
+* 某歯科医療機器メーカーで営業
+
+# スキル
+* PhotoShop
+* Illustrator
 ## 経験言語
 * HTML, CSS
 * PHP
