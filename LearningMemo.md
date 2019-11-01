@@ -1,9 +1,9 @@
 # works
 ## 経験
-HTML, CSS
-PHP
-Shell(bash)
-JavaScript(jQuery）
+* HTML, CSS
+* PHP
+* Shell(bash)
+* JavaScript(jQuery）
 
 
 
