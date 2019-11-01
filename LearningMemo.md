@@ -3,6 +3,7 @@
 
 # スキル
 * 商品のポスター制作(Photoshop, Illustrator)
+* Webエンジニアリング（サーバーサイド、PHP）
 
 ## 業務経験のある言語
 * HTML, CSS
