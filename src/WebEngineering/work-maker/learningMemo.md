@@ -38,4 +38,10 @@ setting.py に記載
 
 projectのurls.py→appのurls.py
 
+### フォーム作成
+contribライブラリ
+
+### ログイン制御したいページ
+urls.pyに@login_requiredで追加
+
 
