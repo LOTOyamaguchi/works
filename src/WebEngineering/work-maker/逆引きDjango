@@ -1,4 +1,10 @@
 # 逆引きDjango
+## 新規ぺーじの作成
+view.pyにクラス、あるいは関数としてtemplate_nameまたはrenderを追加
+templateを追加
+urls.pyにURL、名前を追加
+
+
 ## URL系
 ### リダイレクト
 
