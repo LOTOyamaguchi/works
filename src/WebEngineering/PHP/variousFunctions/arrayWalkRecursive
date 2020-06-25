@@ -1,0 +1,27 @@
+<?php
+// Your code here!
+$arr = [
+        "text" => "test",
+        "body" => [
+                "content1" => "test",
+                "content2" => "test",
+                "content3" => "aaa",
+                "contentArr" => [
+                        "childContent" => "bbb",
+                    ]
+            ],
+    ];
+
+
+function test_print($item, $key)
+{
+    if ($item == "test"){
+        echo "$key holds $item\n";
+    }
+}
+
+array_walk_recursive($arr, 'test_print');
+
+
+
+?>
